@@ -1,0 +1,42 @@
+{
+  "name": "notas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "start": "next start",
+    "build": "next build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/iron": "^6.0.0",
+    "bcryptjs": "^2.4.3",
+    "carbon-components": "^10.34.0",
+    "carbon-components-react": "^7.34.0",
+    "carbon-icons": "^7.0.7",
+    "cookie": "^0.4.1",
+    "dotenv": "^8.2.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.12.7",
+    "next": "^10.2.0",
+    "next-connect": "^0.10.1",
+    "next-redux-wrapper": "^6.0.2",
+    "passport": "^0.4.1",
+    "passport-jwt": "^4.0.0",
+    "passport-local": "^1.0.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-redux": "^7.2.4",
+    "redux": "^4.1.0",
+    "redux-devtools-extension": "^2.13.9",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^2.0.3",
+    "socket.io": "^4.0.1",
+    "socket.io-client": "^4.0.1",
+    "swr": "^0.5.5",
+    "uuid": "^8.3.2"
+  }
+}
