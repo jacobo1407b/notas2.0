@@ -17,3 +17,4 @@ export const register=(data)=>{
 export const loginApi =(data)=>{
     return fetch('/api/login',requestOptions('POST',data)).then(response=>response.json());
 }
+//commit
